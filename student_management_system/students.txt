@@ -1,3 +1,10 @@
-101,Bindu,20,Python
-102,Aishwarya,20,Python
-103,Manja,20,Java
+101,Aishwarya,20,CSE
+102,Rahul,19,ECE
+103,Sneha,21,ISE
+104,Abhishek,22,ME
+105,Pooja,20,EEE
+106,Karthik,19,AIML
+107,Nandini,21,CSE
+108,Rohit,22,Civil
+109,Ananya,20,ECE
+110,Vivek,21,ISE
